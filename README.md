@@ -17,7 +17,7 @@ I mostly work on turning messy, high-dimensional biological datasets into reprod
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Will-Luc](www.linkedin.com/in/will-luc)
+- **LinkedIn:** [Will-Luc](https://www.linkedin.com/in/will-luc)
 
 <!--
 **Vaylam/Vaylam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
