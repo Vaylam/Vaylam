@@ -1,6 +1,6 @@
 ### Hi, I'm Will 👋
 
-I am a bioinformatics and theoretical systems biology student focused on bridging the gap between wet-lab biology and scalable data analysis. 
+I am a bioinformatics student focused on bridging the gap between wet-lab biology and scalable data analysis. 
 
 I mostly work on turning messy, high-dimensional biological datasets into reproducible insights by building automated pipelines so analyses run cleanly anywhere.
 
